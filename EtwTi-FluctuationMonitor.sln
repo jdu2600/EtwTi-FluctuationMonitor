@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9574CF2B-E0E4-498C-A2C0-B79A9C8CADF0}") = "EtwTi-FluctuationMonitor", "EtwTi-FluctuationMonitor.vcxproj", "{9AAE8450-9F6B-48F0-88F8-639C936DECB4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AAE8450-9F6B-48F0-88F8-639C936DECB4}.Debug|x64.ActiveCfg = Debug|x64
+		{9AAE8450-9F6B-48F0-88F8-639C936DECB4}.Debug|x64.Build.0 = Debug|x64
+		{9AAE8450-9F6B-48F0-88F8-639C936DECB4}.Release|x64.ActiveCfg = Release|x64
+		{9AAE8450-9F6B-48F0-88F8-639C936DECB4}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {606D7C71-1786-4CD6-B2DE-05F9D17083AB}
+	EndGlobalSection
+EndGlobal
